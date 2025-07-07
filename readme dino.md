@@ -11,7 +11,7 @@ This project recreates the popular offline Chrome Dinosaur game using HTML5 Canv
 - Practice JavaScript game loops and animation using `requestAnimationFrame`
 - Handle keyboard input and collision detection
 - Implement jump physics and double jump logic
-- Add persistent high score with `localStorage`
+- Add high score with `localStorage`
 - Create an engaging, responsive design with audio integration
 
 ---
