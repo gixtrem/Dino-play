@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #f0f8ff;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #333;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background: url("bg.png") no-repeat center center;
+    background-size: cover;
+    border: 2px solid #444;
+}
